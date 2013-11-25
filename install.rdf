@@ -8,14 +8,14 @@
     <version>1</version>
     <bootstrap>true</bootstrap>
     <type>2</type>
-    <homepageURL>http://github.com/cztchoice/dd</homepageURL>
+    <homepageURL>https://github.com/cztchoice/double_click_close_restartless</homepageURL>
     <iconURL>http://picol.org/images/icons/files/png/32/refresh_32.png</iconURL>
 
     <targetApplication>
       <r:Description>
         <id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</id>
         <minVersion>4.0b4</minVersion>
-        <maxVersion>26.*</maxVersion>
+        <maxVersion>25.*</maxVersion>
       </r:Description>
     </targetApplication>
   </r:Description>
