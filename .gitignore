@@ -1,0 +1,8 @@
+.tmp*
+*.swp
+.DS_Store
+.project
+.settings
+*.xpi
+*.sublime*
+
